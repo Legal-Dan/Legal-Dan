@@ -2,7 +2,7 @@
 
 I'm Daniel (he/him/his), a [Maker's](https://makers.tech/) graduate and full-stack developer. I formerly worked as the point of contact for developers contracted to work with the NHS and have finally taken the leap into the world of software development myself! 
 
-You can find out more about my experience and some of the projects I have been involved with on my [GitHub CV](https://github.com/Legal-Dan/CV) or view some of the projects I have been involved with over on my [website](https://github.com/Legal-Dan/CV) (To come soon!). ✨
+You can find out more about my experience and some of the projects I have been involved with on my [GitHub CV](https://github.com/Legal-Dan/CV) or view some of the projects I have been involved with over on my [website](https://upbeat-heisenberg-a2e291.netlify.app/) (Currently a work in progress!). ✨
 
 
 ## More about me: 
