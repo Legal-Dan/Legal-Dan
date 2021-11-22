@@ -8,7 +8,7 @@ You can find out more about my experience and some of the projects I have been i
 ## More about me: 
 
 🔭  **At the moment I'm working on...** a voluntary project for [Jitheshraj Scholarship](https://www.jrscholarship.org/)   
-🌱  **I’m currently learning...** C and Java  
+🌱  **I’m currently learning...** C and TypeScript  
 🔍  **I'm interested in...** how I can best put my newly developed skills into practice  
 💬  **Ask me about...** my journey into tech  
 😄  **Pronouns:** He/Him/His  
